@@ -36,7 +36,6 @@ You can access your CV data using the following endpoints:
 **Certifications: http://localhost:5000/certifications (GET)**
 
 
-Using the Command Line
 Open a new command prompt or terminal in the project folder and run the following CLI command:
 
 Get CV Data:
