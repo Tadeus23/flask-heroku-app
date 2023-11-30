@@ -27,7 +27,9 @@ Accessing CV Data - API Endpoints
 You can access your CV data using the following endpoints:
 
 **Personal Information: http://localhost:5000/personal (GET)**
+
 **Experience: http://localhost:5000/experience (GET)**
+
 **Education: http://localhost:5000/education (GET)**
 **Skills: http://localhost:5000/skills (GET)**
 **Certifications: http://localhost:5000/certifications (GET)**
