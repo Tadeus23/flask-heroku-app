@@ -1,6 +1,7 @@
 # CV Data Flask Application
 
-Welcome to the CV Data Flask Application! 
+Welcome to the CV Data Flask Application!
+
 Follow the steps below to get started.
 
 ## Getting Started
@@ -16,12 +17,13 @@ Open a command prompt or terminal in the project folder and run the following co
 
 > pip install -r requirements.txt
 
-Run the Application
 In the command prompt or terminal, run the following command to start the application:
 
 > python app.py
 
 The application will start, and you'll see some output indicating that the server is running.
+
+### Access the data via browser
 
 You can access your CV data using the following endpoints:
 
@@ -35,8 +37,9 @@ You can access your CV data using the following endpoints:
 
 **Certifications: http://localhost:5000/certifications (GET)**
 
+### Access the data via CLI
 
-Open a new command prompt or terminal in the project folder and run the following CLI command:
+Open a new command prompt or terminal in the project folder and run the following:
 
 Get CV Data:
 
