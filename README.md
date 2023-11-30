@@ -14,7 +14,7 @@ Follow the steps below to get started.
 
 Open a command prompt or terminal in the project folder and run the following command to install the required dependencies:
 
-<sub>d
+<sub>
 pip install -r requirements.txt
 </sub>
 
