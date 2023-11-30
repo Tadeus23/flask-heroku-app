@@ -6,7 +6,7 @@ Follow the steps below to get started.
 
 ## Getting Started
 
-### Prerequisites
+### > Prerequisites
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed on your computer.
 2. Download this project and extract it to a folder of your choice.
