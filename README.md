@@ -49,13 +49,13 @@ Get CV Data:
 
 ### Access the data via Heroku
 
-**[Personal data: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/personal)**
+**[Personal data ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/personal)**
 
-**[Experience: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/experience)**
+**[Experience ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/experience)**
 
-**[Education: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/education)**
+**[Education ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/education)**
 
-**[Skills: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/skills)**
+**[Skills ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/skills)**
 
 **[Certifications: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/certifications)**
 
