@@ -6,12 +6,12 @@ Follow the steps below to get started.
 
 ## Getting Started
 
-### > Prerequisites
+### ‣ Prerequisites
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed on your computer.
 2. Download this project and extract it to a folder of your choice.
 
-### Install Dependencies
+### ‣ Install Dependencies
 
 Open a command prompt or terminal in the project folder and run the following command to install the required dependencies:
 
@@ -23,7 +23,8 @@ In the command prompt or terminal, run the following command to start the applic
 
 The application will start, and you'll see some output indicating that the server is running.
 
-### Access the data via browser
+
+### ‣ Access the data via browser
 
 You can access your CV data using the following endpoints:
 
@@ -37,7 +38,8 @@ You can access your CV data using the following endpoints:
 
 **Certifications: http://localhost:5000/certifications (GET)**
 
-### Access the data via CLI
+
+### ‣ Access the data via CLI
 
 Open a new command prompt or terminal in the project folder and run the following:
 
