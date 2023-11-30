@@ -47,9 +47,19 @@ Get CV Data:
 
 > flask get-cv
 
+### Access the data via Heroku
+
+**[Personal data: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/personal)**
+
+**[Experience: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/experience)**
+
+**[Education: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/education)**
+
+**[Skills: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/skills)**
+
+**[Certifications: ](https://flask-cv-app-5c06e202e6d2.herokuapp.com/certifications)**
 
 
 
 **If you have any issues or questions, feel free to reach out for assistance.**
 
-https://flask-cv-app-5c06e202e6d2.herokuapp.com/ | https://git.heroku.com/flask-cv-app.git
