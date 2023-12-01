@@ -1,7 +1,6 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify
 from config import CVData
-import click
-import json
+import click, json
 
 cv_data = CVData()
 app = Flask(__name__)
@@ -10,7 +9,7 @@ def handle_missing_key(data, key, default=None):
     """Handle missing keys by providing a default value or returning an error response."""
     return data.get(key, default)
 
-# REST API endpoints
+# RESTful API endpoints
 @app.route('/personal', methods=['GET'])
 def get_personal_info():
     personal_info = handle_missing_key(cv_data.data, "personal_info", {})
@@ -36,7 +35,7 @@ def get_certifications():
     certifications_data = handle_missing_key(cv_data.data, "certifications_data", [])
     return jsonify(certifications_data)
 
-# CLI commands
+# CLI command
 @app.cli.command("get-cv")
 def print_cv_data():
     response = {
@@ -48,7 +47,6 @@ def print_cv_data():
     }
 
     click.echo(json.dumps(response, indent=4))
-
 
 
 if __name__ == '__main__':
